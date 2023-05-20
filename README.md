@@ -1,4 +1,4 @@
-# Simon_Assembly
+# Simon Assembly _ Kiến trúc máy tính (Computer architecture)
 Simon Assembly _ Kiến trúc máy tính (Computer architecture)
 
 Game Simon is written in Assembly. 
